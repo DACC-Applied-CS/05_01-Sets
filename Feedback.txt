@@ -1,0 +1,9 @@
+Q1: What operation merges sets?
+
+Q2: What oepration checks for common values?
+
+Q3: T/F:  Sets can have duplicates
+
+Q4: Sets are enclosed in ___________ braces
+
+Remember to follow up in Blackboard after you submit this assignment
